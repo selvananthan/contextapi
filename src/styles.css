@@ -1,0 +1,36 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    color: grey;
+    margin-bottom: 5px;
+}
+
+button {
+    color: red;
+}
+
+button.btn-link {
+    color: red;
+    padding: 0;
+    border: none;
+}
